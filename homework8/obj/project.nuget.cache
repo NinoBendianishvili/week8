@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnDIoUvvXgGm0VjvFxtC+swKHaxwsmoCo+vk8xsCnB+jTvSklv173xRJLVBk728gyRU2tD+Ofhy/pwLdU6qAQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bendi\\RiderProjects\\homework8\\homework8\\homework8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bendi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\bendi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\bendi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\bendi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
